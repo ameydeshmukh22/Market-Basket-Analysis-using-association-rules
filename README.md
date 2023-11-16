@@ -15,6 +15,8 @@
 
 
 #NAME OF ATTRIBUTES:
+
+
 	BillNo – 6 digit number assigned to each transaction (Nominal).
  
  
